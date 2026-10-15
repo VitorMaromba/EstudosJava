@@ -17,7 +17,7 @@ Meu objetivo com este repositório é construir uma base sólida em Java, desde 
 * [X] Estruturas condicionais
 * [X] Estruturas de repetição
 * [X] Arrays
-* [ ] Métodos
+* [x] Métodos
 * [ ] Orientação a Objetos
 * [ ] Classes e objetos
 * [ ] Construtores
